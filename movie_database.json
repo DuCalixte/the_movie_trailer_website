@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "title": "Bangkok Dangerous",
+      "rating": "R",
+      "year": 2008,
+      "info": "As a hired assassin, Joe (Nicolas Cage) is the best in the business, but the years of stone-cold murder have taken their toll. Joe's plan to make this current assignment in Bangkok his last takes a wild turn when he violates one of...",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Bangkok_dangerous_2008_poster.jpg/220px-Bangkok_dangerous_2008_poster.jpg",
+      "trailer_youtube_url": "https://youtu.be/e_b2QVAVRpc",
+      "duration": 100
+    },
+    {
+      "title": "Season Of The Witch",
+      "rating": "PG-13",
+      "year": 2011,
+      "info": "In Villach in the 13th century, three women are accused of witchcraft by a priest (Nick Sidi). While one claims to be a witch out of persuasion from the church, one doesn't deny it and curses the priest...",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Season_of_the_Witch.jpg/220px-Season_of_the_Witch.jpg",
+      "trailer_youtube_url": "https://youtu.be/PE6QUf1b-Xw",
+      "duration": 98
+    },
+    {
+      "title": "Minions",
+      "rating": "PG",
+      "year": 2015,
+      "info": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.",
+      "poster_image_url": "http://ia.media-imdb.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_UY190_CR0,0,128,190_AL_.jpg",
+      "trailer_youtube_url": "www.youtube.com/watch?v=dVDk7PXNXB8",
+      "duration": 91
+    },
+    {
+      "title": "Ant Man",
+      "rating": "PG",
+      "year": 2015,
+      "info": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+      "poster_image_url": "http://ia.media-imdb.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_UX122_CR0,0,122,176_AL_.jpg",
+      "trailer_youtube_url": "www.youtube.com/watch?v=IEVE3KSKQ0o",
+      "duration": 117
+    },
+    {
+      "title": "Terminator Genisys",
+      "rating": "PG-13",
+      "year": 2015,
+      "info": "John Connor sends Kyle Reese back in time to protect Sarah Connor, but when he arrives in 1984, nothing is as he expected it to be.",
+      "poster_image_url": "http://ia.media-imdb.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX214_AL_.jpg",
+      "trailer_youtube_url": "www.youtube.com/watch?v=CN__WyMfEKw",
+      "duration": 126
+    }
+  ]
+}
